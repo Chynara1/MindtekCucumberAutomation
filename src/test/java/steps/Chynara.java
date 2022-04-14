@@ -5,7 +5,7 @@ public class Chynara {
         String name = "Chynara";
         int age = 33;
         double salary = 114.00;
-//        boolean hasCar = true;
-//        String catName = "Messi";
+        boolean hasCar = true;
+        String catName = "Messi";
     }
 }
